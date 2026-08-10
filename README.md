@@ -82,10 +82,19 @@
 
 ---
 
-# 👀 Profile Views
+# 📈 Profile Views & Visitor Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/denmarkntagomata">
+    <img src="https://github-profile-views-counter.glitch.me/badge?username=denmarkntagomata&color=800000" alt="Views Counter" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Visitor Country Counter -->
+  <a href="https://info.flagcounter.com/4x8N">
+    <img src="https://s11.flagcounter.com/map/4x8N/size_m/tech_000000/bg_0D1117/page_FFFFFF/line_800000/map_800000/1/" alt="Visitor Map" border="0">
+  </a>
 </p>
 
 ---
