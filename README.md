@@ -97,3 +97,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
 </p>
+
+# ⚡ GitHub Overview & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denmarkntagomata&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=800000&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=800000&icon_color=800000&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+</p>
