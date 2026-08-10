@@ -1,6 +1,6 @@
 ![My Landscape Photo](https://github.com/denmarkntagomata/denmarkntagomata/blob/main/your-image-filename.jpg?raw=true)
 
-# <img src="https://github.com/denmarkntagomata/denmarkntagomata/blob/main/pup-logo.png?raw=true" width="32" height="32" style="border-radius: 50%; vertical-align: middle; display: inline-block;" alt="PUP Logo" /> Hello there, I am Den!!!
+# <sub><img src="https://github.com/denmarkntagomata/denmarkntagomata/blob/main/pup-logo.png?raw=true" width="32" height="32" alt="PUP Logo" /></sub> Hello there, I am Den!!!
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=800000&background=0D111700&vCenter=true&width=550&lines=Certified+AWS+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
