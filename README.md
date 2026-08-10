@@ -85,7 +85,7 @@
 # 📈 Profile Views & Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS&exclude_ips=122.2.100.40" alt="Profile Views Counter" />
   <img src="https://img.shields.io/github/followers/denmarkntagomata?style=for-the-badge&color=800000&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/denmarkntagomata?style=for-the-badge&color=800000&label=TOTAL+STARS" alt="Total Stars" />
 </p>
