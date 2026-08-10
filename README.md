@@ -57,8 +57,6 @@
 
 ---
 
-## GitHub Streak
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" align="center" /> GitHub Streak
 
 <p align="center">
@@ -105,3 +103,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&color=800000" alt="Dev Quote" />
 </p>
+
+---
+
