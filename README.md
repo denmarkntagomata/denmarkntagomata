@@ -59,8 +59,9 @@
 
 ## GitHub Streak
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" align="center" /> GitHub Streak
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="45" alt="Fire GIF" /><br/>
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400&v=3"
     alt="GitHub Streak Stats"
