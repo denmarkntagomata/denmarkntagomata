@@ -85,7 +85,7 @@
 # 📈 Profile Views & Metrics
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdenmarkntagomata&count_bg=%23800000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
   <img src="https://img.shields.io/github/followers/denmarkntagomata?style=for-the-badge&color=800000&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/denmarkntagomata?style=for-the-badge&color=800000&label=TOTAL+STARS" alt="Total Stars" />
 </p>
