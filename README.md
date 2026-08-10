@@ -16,7 +16,7 @@
 
 # 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://den-blank-portfolio.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/markdendenden)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imdenmark12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tagomatadenmark/)
@@ -82,16 +82,6 @@
 
 ---
 
-# 📈 Profile Views & Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-  <img src="https://img.shields.io/github/followers/denmarkntagomata?style=for-the-badge&color=800000&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/denmarkntagomata?style=for-the-badge&color=800000&label=TOTAL+STARS" alt="Total Stars" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -105,4 +95,3 @@
 </p>
 
 ---
-
