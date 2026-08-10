@@ -82,14 +82,18 @@
 
 ---
 
-# 📈 Profile Views & Activity Trends
+# 📈 Profile Views & Active Community
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-800000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=TOTAL+VISITS" alt="Profile Views Counter" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=800000&icon_color=800000" alt="GitHub Stats Summary" />
+  <sub><b>Recent Stargazers & Supporters</b></sub><br/>
+  <a href="https://github.com/denmarkntagomata/denmarkntagomata/stargazers">
+    <img src="https://reporoster.com/stars/denmarkntagomata/denmarkntagomata" alt="Stargazers" />
+  </a>
 </p>
 
 ---
