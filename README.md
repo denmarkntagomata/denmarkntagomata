@@ -85,15 +85,12 @@
 # 📈 Profile Views & Visitor Insights
 
 <p align="center">
-  <a href="https://github.com/denmarkntagomata">
-    <img src="https://github-profile-views-counter.glitch.me/badge?username=denmarkntagomata&color=800000" alt="Views Counter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
 
 <p align="center">
-  <!-- Visitor Country Counter -->
-  <a href="https://info.flagcounter.com/4x8N">
-    <img src="https://s11.flagcounter.com/map/4x8N/size_m/tech_000000/bg_0D1117/page_FFFFFF/line_800000/map_800000/1/" alt="Visitor Map" border="0">
+  <a href="https://clustrmaps.com/site/1c183" title="Visitor Map">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=2G_8gH8K6PzR8qE8v403063&cl=ffffff&w=a" alt="Visitor Locations" width="500"/>
   </a>
 </p>
 
