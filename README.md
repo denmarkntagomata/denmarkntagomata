@@ -82,16 +82,14 @@
 
 ---
 
-# 📈 Profile Views & Visitor Insights
+# 📈 Profile Views & Activity Trends
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
 
 <p align="center">
-  <a href="https://clustrmaps.com/site/1c183" title="Visitor Map">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=2G_8gH8K6PzR8qE8v403063&cl=ffffff&w=a" alt="Visitor Locations" width="500"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=800000&icon_color=800000" alt="GitHub Stats Summary" />
 </p>
 
 ---
