@@ -82,9 +82,16 @@
 
 ---
 
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
 </p>
-
