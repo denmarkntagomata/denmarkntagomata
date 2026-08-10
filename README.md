@@ -60,7 +60,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2630A6y0c9y9aG0p/giphy.gif" width="40" alt="Animated Flame" /><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="50" alt="Animated Flame" /><br/>
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400&v=3"
     alt="GitHub Streak Stats"
