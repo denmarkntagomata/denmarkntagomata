@@ -45,10 +45,8 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg?v=1" alt="Contribution Snake" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&color=E03131" alt="Dev Quote" />
 </p>
 
 ---
