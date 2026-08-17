@@ -46,9 +46,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=E03131&background=0D111700&center=true&vCenter=true&width=750&height=70&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;%22Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.%22+—+Harold+Abelson;%22Simplicity+is+prerequisite+for+reliability.%22+—+Edsger+W.+Dijkstra;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+—+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+—+Kent+Beck" alt="Randomized Dev Quotes" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=E03131&background=0D111700&center=true&vCenter=true&width=750&height=70&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;Programs+must+be+written+for+people+to+read.+-+Harold+Abelson;Simplicity+is+prerequisite+for+reliability.+-+Edsger+W.+Dijkstra;First+solve+the+problem.+Then+write+the+code.+-+John+Johnson;Make+it+work+make+it+right+make+it+fast.+-+Kent+Beck" alt="Randomized Dev Quotes" />
 </p>
 
 ---
