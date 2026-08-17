@@ -1,57 +1,44 @@
-![My Landscape Photo](https://github.com/denmarkntagomata/denmarkntagomata/blob/main/your-image-filename.jpg?raw=true)
+<p align="center">
+  <img src="./your-image-filename.jpg" alt="Header Banner" width="100%" />
+</p>
 
-# <sub><img src="https://github.com/denmarkntagomata/denmarkntagomata/blob/main/pup-logo.png?raw=true" width="32" height="32" alt="PUP Logo" /></sub> Hello there, I am Den!!!
+# <img src="./pup-logo.png" width="30" height="30" alt="PUP Logo" style="vertical-align: middle;" /> Hello there, I am Den! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=800000&background=0D111700&vCenter=true&width=550&lines=Certified+AWS+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E03131&background=0D111700&vCenter=true&width=600&lines=Certified+AWS+Cloud+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
 </a>
 
-🔭 I'm a 2nd-year BS Information Technology (BSIT) student at Polytechnic University of the Philippines – Parañaque Campus.
+<br/>
 
-🌱 I'm currently learning more about Data Science, AI/ML, Cloud Computing, Cybersecurity, Full-Stack Development and Backend AI Engineering.
-
-🤍 Random facts about me: I love singing, songwriting, and creating art stuff.
+🔭 **Education:** 2nd-year BS Information Technology (BSIT) student at Polytechnic University of the Philippines – Parañaque Campus.  
+🌱 **Learning:** Data Science, AI/ML, Cloud Computing, Cybersecurity, Full-Stack Development, and Backend AI Engineering.  
+🤍 **Interests:** Singing, songwriting, and creating art.
 
 ---
 
 # 💻 Tech Toolbox
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp,cs,git,github,vscode,linux,docker,terraform,gcp,aws&perline=8"/>
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp,cs,git,github,vscode,linux,docker,terraform,gcp,aws&perline=8" alt="Tech Stack" />
 </p>
 
 ---
 
 # 📜 Licenses & Certifications
 
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)
+- **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)**
 
 <p align="center">
-  <img src="https://github.com/denmarkntagomata/denmarkntagomata/blob/main/aws-certificate.png?raw=true" width="700"/>
+  <img src="./aws-certificate.png" width="700" alt="AWS Certificate" />
 </p>
 
 ---
 
-# 📊 GitHub Activity & Streak Stats
-
-## GitHub Activity
+# 📊 GitHub Streak
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=denmarkntagomata&bg_color=0D1117&color=800000&line=800000&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"/>
-</p>
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" align="center" /> GitHub Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400&v=3"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400"
     alt="GitHub Streak Stats"
   />
 </p>
@@ -61,13 +48,11 @@
 # 🚀 Currently Building Around
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/☁️_GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-800000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/BACKEND_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-800000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/BACKEND_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
 ---
@@ -75,13 +60,5 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
+  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&color=800000" alt="Dev Quote" />
-</p>
-
----
