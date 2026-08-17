@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer&text=Talk%20is%20cheap.%20Show%20me%20the%20code.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&bg_color=0D1117&color=E03131&quote_color=FFFFFF&author_color=FF9E3B&hide_border=true" alt="Dynamic Dev Quote" />
 </p>
 
 ---
