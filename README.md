@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="denmark-secondary" src="https://github.com/user-attachments/assets/fd54ba6c-fbd3-489e-9798-20107234abbf" />
+
 # Hello there, I am Den! 👋
 
 <a href="https://git.io/typing-svg">
