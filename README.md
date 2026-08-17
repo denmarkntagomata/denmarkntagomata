@@ -22,14 +22,6 @@
 
 ---
 
-# 📜 Licenses & Certifications
-
-- **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)**
-
-<!-- DROP CERTIFICATE IMAGE HERE -->
-
----
-
 # 📊 GitHub Streak
 
 <p align="center">
@@ -50,3 +42,13 @@
   <img src="https://img.shields.io/badge/BACKEND_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+---
