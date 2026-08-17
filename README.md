@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./your-image-filename.jpg" alt="Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/main/your-image-filename.jpg" alt="Header Banner" width="100%" />
 </p>
 
-# <img src="./pup-logo.png" width="30" height="30" alt="PUP Logo" style="vertical-align: middle;" /> Hello there, I am Den! 👋
+# <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/main/pup-logo.png" width="30" height="30" alt="PUP Logo" style="vertical-align: middle;" /> Hello there, I am Den! 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E03131&background=0D111700&vCenter=true&width=600&lines=Certified+AWS+Cloud+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
@@ -29,7 +29,7 @@
 - **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)**
 
 <p align="center">
-  <img src="./aws-certificate.png" width="700" alt="AWS Certificate" />
+  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/main/aws-certificate.png" width="700" alt="AWS Certificate" />
 </p>
 
 ---
