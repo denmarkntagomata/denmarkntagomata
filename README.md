@@ -4,10 +4,6 @@
   <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🕒_PHT_Time-Active-800000?style=for-the-badge" alt="PHT Clock" />
-</p>
-
 # Hello there, I am Den! 👋
 
 <a href="https://git.io/typing-svg">
