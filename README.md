@@ -1,7 +1,12 @@
-<img width="1920" height="1080" alt="denmark-secondary" src="https://github.com/user-attachments/assets/fd54ba6c-fbd3-489e-9798-20107234abbf" />
+<p align="center">
+  <a href="https://linkedin.com/in/tagomatadenmark" target="_blank">
+    <img width="1920" height="1080" alt="denmark-secondary" src="https://github.com/user-attachments/assets/fd54ba6c-fbd3-489e-9798-20107234abbf" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
+  <img src="https://img.shields.io/badge/PHT_Time-UTC%20%2B8-232F3E?style=for-the-badge&logo=googlesheets&logoColor=white" alt="PHT Time" />
 </p>
 
 # Hello there, I am Den! 👋
