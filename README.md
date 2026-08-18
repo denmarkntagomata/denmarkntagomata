@@ -36,10 +36,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400" alt="GitHub Streak Stats" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=E03131&icon_color=FF9900&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denmarkntagomata&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=E03131&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
