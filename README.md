@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denmarkntagomata&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=E03131&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=denmarkntagomata&theme=tokyonight" alt="Profile Summary Card" />
 </p>
 
 ---
