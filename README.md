@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=E03131&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
 </p>
