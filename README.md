@@ -1,5 +1,9 @@
 <img width="1920" height="1080" alt="denmark-secondary" src="https://github.com/user-attachments/assets/fd54ba6c-fbd3-489e-9798-20107234abbf" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
+</p>
+
 # Hello there, I am Den! 👋
 
 <a href="https://git.io/typing-svg">
@@ -56,7 +60,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
-</p>
