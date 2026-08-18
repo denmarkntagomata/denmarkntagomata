@@ -38,18 +38,8 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denmarkntagomata&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
----
-
-# ⏱️ WakaTime Coding Hours
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=denmarkntagomata&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=E03131" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=E03131&icon_color=FF9900&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
