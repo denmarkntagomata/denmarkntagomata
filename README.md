@@ -22,7 +22,15 @@
 
 ---
 
-# 📊 GitHub Streak
+# 📊 GitHub Activity & Streak Stats
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denmarkntagomata&bg_color=0D1117&color=E03131&line=E03131&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+## GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400" alt="GitHub Streak Stats" />
