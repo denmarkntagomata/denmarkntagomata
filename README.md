@@ -2,7 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
-  <img src="https://img.shields.io/badge/PHT_Time-UTC%20%2B8-232F3E?style=for-the-badge&logo=googlesheets&logoColor=white" alt="PHT Time" />
+  <img src="https://komarev.com/ghpvc/?username=denmarkntagomata&color=E03131&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://holopin.me/denmarkntagomata" alt="Live Clock Widget" />
 </p>
 
 # Hello there, I am Den! 👋
