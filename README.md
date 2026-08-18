@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FManila&query=datetime&label=PHT%20Time&style=for-the-badge&color=232F3E&logo=googlesheets&logoColor=white" alt="Live PHT Clock" />
 </p>
 
 # Hello there, I am Den! 👋
