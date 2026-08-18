@@ -20,44 +20,12 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp,cs,git,github,vscode,linux,docker,terraform,gcp,aws&perline=8" alt="Tech Stack" />
 </p>
 
-# 📊 GitHub Activity & Streak Stats
-
-
-## GitHub Activity
-
-
-<p align="center">
-
-  <img
-
-    src="https://github-readme-activity-graph.vercel.app/graph?username=denmarkntagomata&bg_color=0D1117&color=800000&line=800000&point=FFFFFF&area=true&hide_border=true"
-
-    width="100%"
-
-    alt="GitHub Activity Graph"/>
-
-</p>
-
-
-
 ---
 
-
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" align="center" /> GitHub Streak
-
-
+# 📊 GitHub Streak
 
 <p align="center">
-
-  <img
-
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400&v=3"
-
-    alt="GitHub Streak Stats"
-
-  />
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400" alt="GitHub Streak Stats" />
 </p>
 
 ---
