@@ -35,7 +35,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denmarkntagomata&bg_color=0D1117&color=E03131&line=E03131&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.kmurph.in/graph?username=denmarkntagomata&bg_color=0D1117&color=E03131&line=E03131&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 ## GitHub Streak
@@ -43,7 +43,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400" alt="GitHub Streak Stats" />
 </p>
-
 
 ---
 
@@ -62,5 +61,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=E03131&background=0D111700&center=true&vCenter=true&width=750&height=70&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;Programs+must+be+written+for+people+to+read.+-+Harold+Abelson;Simplicity+is+prerequisite+for+reliability.+-+Edsger+W.+Dijkstra;First+solve+the+problem.+Then+write+the+code.+-+John+Johnson;Make+it+work+make+it+right+make+it+fast.+-+Kent+Beck" alt="Randomized Dev Quotes" />
 </p>
-
----
