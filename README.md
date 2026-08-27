@@ -30,6 +30,18 @@
 
 ---
 
+# 🚀 Currently Building Around
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-800000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/BACKEND_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+---
+
 # 📊 GitHub Streak Stats & Contributions
 
 ## GitHub Streak Stats
@@ -40,18 +52,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-# 🚀 Currently Building Around
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-800000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/BACKEND_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
 ---
