@@ -30,16 +30,16 @@
 
 ---
 
-# 📊 GitHub Activity & Streak Stats
+# 📊 GitHub Streak Stats & Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-## GitHub Streak
+## GitHub Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
