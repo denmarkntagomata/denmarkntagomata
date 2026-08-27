@@ -32,10 +32,9 @@
 
 # 📊 GitHub Activity & Streak Stats
 
-## GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.kmurph.in/graph?username=denmarkntagomata&bg_color=0D1117&color=E03131&line=E03131&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=E03131&icon_color=E03131&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
 </p>
 
 ## GitHub Streak
