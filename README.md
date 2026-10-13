@@ -11,7 +11,7 @@
 # Hello there, I am Den!👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E03131&background=0D111700&vCenter=true&width=600&lines=Certified+AWS+Cloud+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E03131&background=0D111700&vCenter=true&width=600&lines=Certified+AWS+Cloud+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,6 @@
 🔭 **Education:** 2nd-year BS Information Technology (BSIT) student at Polytechnic University of the Philippines – Parañaque Campus.  
 🌱 **Learning:** Data Science, AI/ML, Cloud Computing, Cybersecurity, Full-Stack Development, and Backend AI Engineering.  
 🤍 **Interests:** Singing, songwriting, and creating art.
-
 ---
 
 # 💻 Tech Toolbox
