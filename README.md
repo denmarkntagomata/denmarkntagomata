@@ -19,6 +19,7 @@
 🔭 **Education:** 2nd-year BS Information Technology (BSIT) student at Polytechnic University of the Philippines – Parañaque Campus.  
 🌱 **Learning:** Data Science, AI/ML, Cloud Computing, Cybersecurity, Full-Stack Development, and Backend AI Engineering.  
 🤍 **Interests:** Singing, songwriting, and creating art.
+
 ---
 
 # 💻 Tech Toolbox
