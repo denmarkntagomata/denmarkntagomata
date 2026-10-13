@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/PUP--Parañaque-BSIT_Student-800000?style=for-the-badge&logo=gradreadiness&logoColor=white" alt="University Status" />
 </p>
 
-# Hello there, I am Den! 👋
+# Hello there, I am Den!👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E03131&background=0D111700&vCenter=true&width=600&lines=Certified+AWS+Cloud+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering+Intern" alt="Typing SVG" />
